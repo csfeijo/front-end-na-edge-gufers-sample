@@ -1,3 +1,5 @@
+export const runtime = "edge"
+
 export default function EventPage() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-purple-600 via-purple-700 to-pink-600 flex items-center justify-center p-4">
